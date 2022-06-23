@@ -5,5 +5,6 @@ In this repository you are going to find 3 bots at the moment.
      
  - PANCAKE_BOT file.
       A bot that enables you to trade in pancake swap using it, it does not provide sniping
+ 
  -SNIPING_PANCAKE_BOT file.
       It does provide sniping in pancake swap.
